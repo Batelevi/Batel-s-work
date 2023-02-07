@@ -1,0 +1,10 @@
+*
+!**/
+!**/*.c
+!**/*.cpp
+!**/*.cs
+!**/*.h
+!**/makefile
+!.gitignore
+!.myfuncs
+
